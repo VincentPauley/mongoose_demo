@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/VincentPauley/mongoose_demo/issues"
   },
-  "homepage": "https://github.com/VincentPauley/mongoose_demo#readme"
+  "homepage": "https://github.com/VincentPauley/mongoose_demo#readme",
+  "dependencies": {
+    "mongoose": "^4.7.2"
+  }
 }
